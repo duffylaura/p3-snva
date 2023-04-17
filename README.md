@@ -1,6 +1,16 @@
 # Project 3 for SNVA 
 
-##  Brain Storming Build Missing files 
+## How to Use 
+
+This is a command line interface tool. 
+1. Clone repo
+2. npm install 
+3. To run program: node index.js 
+The options that are operational right now are "Add Employee" and "End." 
+
+# Project Brief:
+
+###  Brain Storming Build Missing files 
 ### Here you need to build a module where in you have to create a data structure with below data :- 
 
 1. Name-String 
