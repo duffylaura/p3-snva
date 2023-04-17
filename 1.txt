@@ -1,6 +1,0 @@
-
-        Employee name: Laura
-        Employee age: 23
-        Employee id: 1
-        Employee contact: 3333333
-        Employee Email: Hello@gmail.com

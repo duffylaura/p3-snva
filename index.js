@@ -85,7 +85,7 @@ class Employee {
     }
   ]; 
 
-  //Function to direct user to next correct set of questions based on which option they chose 
+//Function to direct user to next correct set of questions based on which option they chose 
 function questionDirectory () {
     inquirer.prompt(firstQuestion).then(function(response){
         let selection = response.firstQuestionOptions; 
