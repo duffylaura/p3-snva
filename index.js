@@ -122,7 +122,7 @@ function useAddEmployeeQuestions() {
             response.email
         ); 
         employeeArray.push(addedEmployeeObject); 
-        data = `
+        const data = `
         Employee name: ${addedEmployeeObject.name}
         Employee age: ${addedEmployeeObject.age}
         Employee id: ${addedEmployeeObject.id}
