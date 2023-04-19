@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "##  Brain Storming Build Missing files  ### Here you need to build a module where in you have to create a data structure with below data :-",
   "main": "index.js",
-  "start": "node index.js",
+  "start": "node index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

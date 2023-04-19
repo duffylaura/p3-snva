@@ -1,0 +1,6 @@
+
+        Employee name: Charles
+        Employee age: 23
+        Employee id: 2
+        Employee contact: 333-333-3333
+        Employee Email: Hello5@gmail.com
